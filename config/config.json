@@ -1,16 +1,16 @@
 {
   "development": {
-    "username": "godwin",
-    "password": "admin",
+    "username": "faceultra",
+    "password": "eb3r3!",
     "database": "weather_forcast_incidents",
-    "host": "127.0.0.1",
+    "host": "139.162.134.202",
     "dialect": "postgres"
   },
   "production": {
-    "username": "godwin",
-    "password": "admin",
+    "username": "faceultra",
+    "password": "eb3r3!",
     "database": "weather_forcast_incidents",
-    "host": "127.0.0.1",
+    "host": "139.162.134.202",
     "dialect": "postgres"
   }
 }
