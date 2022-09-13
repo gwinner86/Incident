@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "godwin",
+    "password": "admin",
+    "database": "weather_forcast_incidents",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "godwin",
+    "password": "admin",
+    "database": "weather_forcast_incidents",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
