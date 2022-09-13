@@ -2,7 +2,6 @@
 ## Download
 
 Indented code
-...
-$ git init
-...
+   $ git init
+
 
